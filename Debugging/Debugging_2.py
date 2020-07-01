@@ -1,5 +1,5 @@
 """"The logging module lets you display logging messages.
-Log messages create a "breadcrumb trail" of what your program is doing.
+Log messages create a 'breadcrumb trail' of what your program is doing.
 After calling logging.basicConfig() to set up logging, call logging.debug(‘This is the message')
  to create a log message.
 When done, you can disable the log messages with logging.disable(logging.CRITICAL)
